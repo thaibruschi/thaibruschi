@@ -38,6 +38,5 @@ Buscando evoluir constantemente na área de tecnologia, aprendendo novas ferrame
 ⚡ Frase Motivacional
 <div align="center">
 
-“A tecnologia move o mundo.” – Steve Jobs
-
+"A única maneira de fazer um excelente trabalho é amar o que você faz." — Steve Jobs
 </div>
